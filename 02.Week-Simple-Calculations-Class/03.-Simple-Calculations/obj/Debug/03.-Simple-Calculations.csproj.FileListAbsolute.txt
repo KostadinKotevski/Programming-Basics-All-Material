@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\03.-Simple-Calculations\bin\Debug\03.-Simple-Calculations.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\03.-Simple-Calculations\bin\Debug\03.-Simple-Calculations.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\03.-Simple-Calculations\bin\Debug\03.-Simple-Calculations.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\03.-Simple-Calculations\obj\Debug\03.-Simple-Calculations.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\03.-Simple-Calculations\obj\Debug\03.-Simple-Calculations.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\03.-Simple-Calculations\obj\Debug\03.-Simple-Calculations.pdb

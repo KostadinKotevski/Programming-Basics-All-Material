@@ -1,0 +1,3 @@
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\01Homework\bin\Debug\01Homework.exe.config
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\01Homework\obj\Debug\01Homework.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\01Homework\obj\Debug\01Homework.pdb

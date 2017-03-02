@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\07.AreaofRectangle\bin\Debug\07.AreaofRectangle.exe.config
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\07.AreaofRectangle\bin\Debug\07.AreaofRectangle.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\07.AreaofRectangle\bin\Debug\07.AreaofRectangle.pdb
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\07.AreaofRectangle\obj\Debug\07.AreaofRectangle.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\07.AreaofRectangle\obj\Debug\07.AreaofRectangle.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\07.AreaofRectangle\obj\Debug\07.AreaofRectangle.pdb

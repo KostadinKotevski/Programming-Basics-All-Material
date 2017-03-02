@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\02.Reading-Text-from-Console\bin\Debug\02.Reading-Text-from-Console.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\02.Reading-Text-from-Console\bin\Debug\02.Reading-Text-from-Console.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\02.Reading-Text-from-Console\bin\Debug\02.Reading-Text-from-Console.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\02.Reading-Text-from-Console\obj\Debug\02.Reading-Text-from-Console.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\02.Reading-Text-from-Console\obj\Debug\02.Reading-Text-from-Console.pdb

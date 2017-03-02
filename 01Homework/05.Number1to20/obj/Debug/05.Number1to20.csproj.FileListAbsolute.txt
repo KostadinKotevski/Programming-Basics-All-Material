@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\05.Number1to20\bin\Debug\05.Number1to20.exe.config
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\05.Number1to20\bin\Debug\05.Number1to20.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\05.Number1to20\bin\Debug\05.Number1to20.pdb
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\05.Number1to20\obj\Debug\05.Number1to20.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\05.Number1to20\obj\Debug\05.Number1to20.pdb

@@ -1,0 +1,9 @@
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\bin\Debug\03.Summator.exe.config
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\bin\Debug\03.Summator.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\bin\Debug\03.Summator.pdb
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\obj\Debug\03.Sumator.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\obj\Debug\_03.Summator.FormCalculate.resources
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\obj\Debug\_03.Summator.Properties.Resources.resources
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\obj\Debug\03.Sumator.csproj.GenerateResource.Cache
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\obj\Debug\03.Summator.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\03.Summator\obj\Debug\03.Summator.pdb

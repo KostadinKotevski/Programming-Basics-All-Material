@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\05.DateTime\obj\Debug\05.DateTime1.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\05.DateTime\bin\Debug\05.DateTime.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\05.DateTime\bin\Debug\05.DateTime.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\05.DateTime\bin\Debug\05.DateTime.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\05.DateTime\obj\Debug\05.DateTime.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\02Week\Solution2\05.DateTime\obj\Debug\05.DateTime.pdb

@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\06.Triangleof555StarsShort\bin\Debug\06.Triangleof555StarsShort.exe.config
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\06.Triangleof555StarsShort\bin\Debug\06.Triangleof555StarsShort.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\06.Triangleof555StarsShort\bin\Debug\06.Triangleof555StarsShort.pdb
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\06.Triangleof555StarsShort\obj\Debug\06.Triangleof555StarsShort.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\06.Triangleof555StarsShort\obj\Debug\06.Triangleof555StarsShort.pdb

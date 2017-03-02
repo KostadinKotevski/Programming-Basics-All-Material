@@ -1,0 +1,12 @@
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\bin\Debug\_08.Square_of_Stars.exe.config
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\obj\Debug\08. Square of Stars.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\bin\Debug\_08.Square_of_Stars.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\bin\Debug\_08.Square_of_Stars.pdb
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\obj\Debug\_08.Square_of_Stars.exe
+C:\Users\18541\Desktop\Programing\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\obj\Debug\_08.Square_of_Stars.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\bin\Debug\_08.Square_of_Stars.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\obj\Debug\_08.Square_of_Stars.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\obj\Debug\_08.Square_of_Stars.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\bin\Debug\_08.Square_of_Stars.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\bin\Debug\_08.Square_of_Stars.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\01Week\01Homework\08. Square of Stars\obj\Debug\08. Square of Stars.csprojResolveAssemblyReference.cache
