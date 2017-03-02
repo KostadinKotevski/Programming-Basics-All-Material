@@ -1,0 +1,9 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\06.Point-on-Rectangle-Boarder\bin\Debug\06.Point-on-Rectangle-Boarder.exe.config
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\06.Point-on-Rectangle-Boarder\bin\Debug\06.Point-on-Rectangle-Boarder.exe
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\06.Point-on-Rectangle-Boarder\bin\Debug\06.Point-on-Rectangle-Boarder.pdb
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\06.Point-on-Rectangle-Boarder\obj\Debug\06.Point-on-Rectangle-Boarder.csprojResolveAssemblyReference.cache
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\06.Point-on-Rectangle-Boarder\obj\Debug\06.Point-on-Rectangle-Boarder.exe
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\06.Point-on-Rectangle-Boarder\obj\Debug\06.Point-on-Rectangle-Boarder.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\06.Point-on-Rectangle-Boarder\bin\Debug\06.Point-on-Rectangle-Boarder.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\06.Point-on-Rectangle-Boarder\obj\Debug\06.Point-on-Rectangle-Boarder.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\06.Point-on-Rectangle-Boarder\obj\Debug\06.Point-on-Rectangle-Boarder.pdb

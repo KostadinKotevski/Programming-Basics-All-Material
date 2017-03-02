@@ -1,0 +1,9 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\07.Fruit-Shop\bin\Debug\07.Fruit-Shop.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\07.Fruit-Shop\bin\Debug\07.Fruit-Shop.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\07.Fruit-Shop\bin\Debug\07.Fruit-Shop.pdb
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\07.Fruit-Shop\obj\Debug\07.Fruit-Shop.csprojResolveAssemblyReference.cache
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\07.Fruit-Shop\obj\Debug\07.Fruit-Shop.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\07.Fruit-Shop\obj\Debug\07.Fruit-Shop.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\07.Fruit-Shop\bin\Debug\07.Fruit-Shop.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\07.Fruit-Shop\obj\Debug\07.Fruit-Shop.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\07.Fruit-Shop\obj\Debug\07.Fruit-Shop.pdb

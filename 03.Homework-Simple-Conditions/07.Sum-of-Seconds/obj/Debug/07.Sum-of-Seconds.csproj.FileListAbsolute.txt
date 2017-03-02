@@ -1,0 +1,12 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\07.Sum-of-Seconds\bin\Debug\07.Sum-of-Seconds.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\07.Sum-of-Seconds\bin\Debug\07.Sum-of-Seconds.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\07.Sum-of-Seconds\bin\Debug\07.Sum-of-Seconds.pdb
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\07.Sum-of-Seconds\obj\Debug\07.Sum-of-Seconds.csprojResolveAssemblyReference.cache
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\07.Sum-of-Seconds\obj\Debug\07.Sum-of-Seconds.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\07.Sum-of-Seconds\obj\Debug\07.Sum-of-Seconds.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds\bin\Debug\07.Sum-of-Seconds.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds\obj\Debug\07.Sum-of-Seconds.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds\obj\Debug\07.Sum-of-Seconds.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds\bin\Debug\07.Sum-of-Seconds.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds\bin\Debug\07.Sum-of-Seconds.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds\obj\Debug\07.Sum-of-Seconds.csprojResolveAssemblyReference.cache

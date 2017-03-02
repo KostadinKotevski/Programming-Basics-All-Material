@@ -1,0 +1,7 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\11.Cinema\bin\Debug\11.Cinema.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\11.Cinema\bin\Debug\11.Cinema.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\11.Cinema\bin\Debug\11.Cinema.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\11.Cinema\bin\Debug\11.Cinema.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\11.Cinema\obj\Debug\11.Cinema.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\11.Cinema\obj\Debug\11.Cinema.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\11.Cinema\obj\Debug\11.Cinema.pdb

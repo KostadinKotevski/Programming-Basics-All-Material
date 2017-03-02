@@ -1,0 +1,8 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\05.Invalid-Number\bin\Debug\05.Invalid-Number.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\05.Invalid-Number\bin\Debug\05.Invalid-Number.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\05.Invalid-Number\bin\Debug\05.Invalid-Number.pdb
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\05.Invalid-Number\obj\Debug\05.Invalid-Number.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\05.Invalid-Number\obj\Debug\05.Invalid-Number.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\05.Invalid-Number\bin\Debug\05.Invalid-Number.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\05.Invalid-Number\obj\Debug\05.Invalid-Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\05.Invalid-Number\obj\Debug\05.Invalid-Number.pdb

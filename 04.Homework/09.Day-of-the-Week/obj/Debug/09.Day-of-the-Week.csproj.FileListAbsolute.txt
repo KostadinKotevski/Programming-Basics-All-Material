@@ -1,0 +1,9 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\09.Day-of-the-Week\bin\Debug\09.Day-of-the-Week.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\09.Day-of-the-Week\bin\Debug\09.Day-of-the-Week.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\09.Day-of-the-Week\bin\Debug\09.Day-of-the-Week.pdb
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\09.Day-of-the-Week\obj\Debug\09.Day-of-the-Week.csprojResolveAssemblyReference.cache
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\09.Day-of-the-Week\obj\Debug\09.Day-of-the-Week.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\09.Day-of-the-Week\obj\Debug\09.Day-of-the-Week.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\09.Day-of-the-Week\bin\Debug\09.Day-of-the-Week.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\09.Day-of-the-Week\obj\Debug\09.Day-of-the-Week.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\09.Day-of-the-Week\obj\Debug\09.Day-of-the-Week.pdb

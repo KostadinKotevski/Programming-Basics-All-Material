@@ -1,0 +1,8 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\10.Animal-Type\bin\Debug\10.Animal-Type.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\10.Animal-Type\bin\Debug\10.Animal-Type.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\10.Animal-Type\bin\Debug\10.Animal-Type.pdb
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\10.Animal-Type\obj\Debug\10.Animal-Type.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\10.Animal-Type\obj\Debug\10.Animal-Type.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\10.Animal-Type\bin\Debug\10.Animal-Type.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\10.Animal-Type\obj\Debug\10.Animal-Type.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\10.Animal-Type\obj\Debug\10.Animal-Type.pdb

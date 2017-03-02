@@ -1,0 +1,8 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\06.Bonus-Points\bin\Debug\06.Bonus-Points.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\06.Bonus-Points\bin\Debug\06.Bonus-Points.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\06.Bonus-Points\bin\Debug\06.Bonus-Points.pdb
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\06.Bonus-Points\obj\Debug\06.Bonus-Points.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\06.Bonus-Points\obj\Debug\06.Bonus-Points.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\06.Bonus-Points\bin\Debug\06.Bonus-Points.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\06.Bonus-Points\obj\Debug\06.Bonus-Points.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\06.Bonus-Points\obj\Debug\06.Bonus-Points.pdb

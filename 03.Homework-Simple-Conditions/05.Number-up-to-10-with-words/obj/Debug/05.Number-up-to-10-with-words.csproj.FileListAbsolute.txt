@@ -1,0 +1,8 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\bin\Debug\05.Number-up-to-10-with-words.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\bin\Debug\05.Number-up-to-10-with-words.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\bin\Debug\05.Number-up-to-10-with-words.pdb
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\obj\Debug\05.Number-up-to-10-with-words.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\obj\Debug\05.Number-up-to-10-with-words.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\bin\Debug\05.Number-up-to-10-with-words.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\obj\Debug\05.Number-up-to-10-with-words.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\05.Number-up-to-10-with-words\obj\Debug\05.Number-up-to-10-with-words.pdb

@@ -1,0 +1,9 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\01.Personal-Titles\bin\Debug\01.Personal-Titles.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\01.Personal-Titles\bin\Debug\01.Personal-Titles.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\01.Personal-Titles\bin\Debug\01.Personal-Titles.pdb
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\01.Personal-Titles\obj\Debug\01.Personal-Titles.csprojResolveAssemblyReference.cache
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\01.Personal-Titles\obj\Debug\01.Personal-Titles.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\01.Personal-Titles\obj\Debug\01.Personal-Titles.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\01.Personal-Titles\bin\Debug\01.Personal-Titles.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\01.Personal-Titles\obj\Debug\01.Personal-Titles.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\01.Personal-Titles\obj\Debug\01.Personal-Titles.pdb

@@ -1,0 +1,12 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\08.Trade-Commissions\bin\Debug\08.Trade-Commissions.exe.config
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\08.Trade-Commissions\bin\Debug\08.Trade-Commissions.exe
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\08.Trade-Commissions\bin\Debug\08.Trade-Commissions.pdb
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\08.Trade-Commissions\obj\Debug\08.Trade-Commissions.csprojResolveAssemblyReference.cache
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\08.Trade-Commissions\obj\Debug\08.Trade-Commissions.exe
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\08.Trade-Commissions\obj\Debug\08.Trade-Commissions.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\08.Trade-Commissions\bin\Debug\08.Trade-Commissions.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\08.Trade-Commissions\obj\Debug\08.Trade-Commissions.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\08.Trade-Commissions\obj\Debug\08.Trade-Commissions.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\08.Trade-Commissions\bin\Debug\08.Trade-Commissions.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\08.Trade-Commissions\bin\Debug\08.Trade-Commissions.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\08.Trade-Commissions\obj\Debug\08.Trade-Commissions.csprojResolveAssemblyReference.cache

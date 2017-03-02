@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\14.Time-+-15-Minutes\bin\Debug\14.Time-+-15-Minutes.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\14.Time-+-15-Minutes\bin\Debug\14.Time-+-15-Minutes.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\14.Time-+-15-Minutes\bin\Debug\14.Time-+-15-Minutes.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\14.Time-+-15-Minutes\obj\Debug\14.Time-+-15-Minutes.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\14.Time-+-15-Minutes\obj\Debug\14.Time-+-15-Minutes.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\14.Time-+-15-Minutes\obj\Debug\14.Time-+-15-Minutes.pdb

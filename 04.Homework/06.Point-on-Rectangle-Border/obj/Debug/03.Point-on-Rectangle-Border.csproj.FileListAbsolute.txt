@@ -1,0 +1,2 @@
+C:\Users\18541\Documents\Visual Studio 2015\Projects\Solution1\06.Point-on-Rectangle-Border\bin\Debug\06.Point-on-Rectangle-Border.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\06.Point-on-Rectangle-Border\bin\Debug\06.Point-on-Rectangle-Border.exe.config

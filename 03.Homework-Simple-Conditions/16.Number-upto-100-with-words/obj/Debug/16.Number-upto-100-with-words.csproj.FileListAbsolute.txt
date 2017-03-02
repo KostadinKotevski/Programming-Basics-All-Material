@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\16.Number-upto-100-with-words\bin\Debug\16.Number-upto-100-with-words.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\16.Number-upto-100-with-words\bin\Debug\16.Number-upto-100-with-words.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\16.Number-upto-100-with-words\bin\Debug\16.Number-upto-100-with-words.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\16.Number-upto-100-with-words\obj\Debug\16.Number-upto-100-with-words.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\16.Number-upto-100-with-words\obj\Debug\16.Number-upto-100-with-words.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\16.Number-upto-100-with-words\obj\Debug\16.Number-upto-100-with-words.pdb

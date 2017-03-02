@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\17.Transport-Price-Past-Paper-Qus\bin\Debug\17.Transport-Price-Past-Paper-Qus.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\17.Transport-Price-Past-Paper-Qus\bin\Debug\17.Transport-Price-Past-Paper-Qus.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\17.Transport-Price-Past-Paper-Qus\bin\Debug\17.Transport-Price-Past-Paper-Qus.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\17.Transport-Price-Past-Paper-Qus\obj\Debug\17.Transport-Price-Past-Paper-Qus.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\17.Transport-Price-Past-Paper-Qus\obj\Debug\17.Transport-Price-Past-Paper-Qus.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\17.Transport-Price-Past-Paper-Qus\obj\Debug\17.Transport-Price-Past-Paper-Qus.pdb

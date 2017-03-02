@@ -1,0 +1,8 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\03.Even-or-odd\bin\Debug\03.Even-or-odd.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\03.Even-or-odd\bin\Debug\03.Even-or-odd.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\03.Even-or-odd\bin\Debug\03.Even-or-odd.pdb
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\03.Even-or-odd\obj\Debug\03.Even-or-odd.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\03.Even-or-odd\obj\Debug\03.Even-or-odd.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\03.Even-or-odd\bin\Debug\03.Even-or-odd.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\03.Even-or-odd\obj\Debug\03.Even-or-odd.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\03.Even-or-odd\obj\Debug\03.Even-or-odd.pdb

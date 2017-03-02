@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\18.Pool-Pipes-Past-Paper-Exam\bin\Debug\18.Pool-Pipes-Past-Paper-Exam.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\18.Pool-Pipes-Past-Paper-Exam\bin\Debug\18.Pool-Pipes-Past-Paper-Exam.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\18.Pool-Pipes-Past-Paper-Exam\bin\Debug\18.Pool-Pipes-Past-Paper-Exam.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\18.Pool-Pipes-Past-Paper-Exam\obj\Debug\18.Pool-Pipes-Past-Paper-Exam.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\18.Pool-Pipes-Past-Paper-Exam\obj\Debug\18.Pool-Pipes-Past-Paper-Exam.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\18.Pool-Pipes-Past-Paper-Exam\obj\Debug\18.Pool-Pipes-Past-Paper-Exam.pdb

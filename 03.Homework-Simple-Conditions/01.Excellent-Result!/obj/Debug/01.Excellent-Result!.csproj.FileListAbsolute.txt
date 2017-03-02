@@ -1,0 +1,9 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\01.Excellent-Result!\bin\Debug\01.Excellent-Result!.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\01.Excellent-Result!\bin\Debug\01.Excellent-Result!.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\01.Excellent-Result!\bin\Debug\01.Excellent-Result!.pdb
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\01.Excellent-Result!\obj\Debug\01.Excellent-Result!.csprojResolveAssemblyReference.cache
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\01.Excellent-Result!\obj\Debug\01.Excellent-Result!.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\01.Excellent-Result!\obj\Debug\01.Excellent-Result!.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\01.Excellent-Result!\bin\Debug\01.Excellent-Result!.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\01.Excellent-Result!\obj\Debug\01.Excellent-Result!.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\01.Excellent-Result!\obj\Debug\01.Excellent-Result!.pdb

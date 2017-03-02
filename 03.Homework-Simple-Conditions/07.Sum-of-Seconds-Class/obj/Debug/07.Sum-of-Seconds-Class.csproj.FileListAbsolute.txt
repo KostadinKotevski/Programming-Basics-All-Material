@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds-Class\bin\Debug\07.Sum-of-Seconds-Class.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds-Class\bin\Debug\07.Sum-of-Seconds-Class.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds-Class\bin\Debug\07.Sum-of-Seconds-Class.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds-Class\obj\Debug\07.Sum-of-Seconds-Class.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\07.Sum-of-Seconds-Class\obj\Debug\07.Sum-of-Seconds-Class.pdb

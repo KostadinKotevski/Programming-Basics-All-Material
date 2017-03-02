@@ -1,0 +1,3 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\04\bin\Debug\04.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\04\obj\Debug\04.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\04\obj\Debug\04.pdb

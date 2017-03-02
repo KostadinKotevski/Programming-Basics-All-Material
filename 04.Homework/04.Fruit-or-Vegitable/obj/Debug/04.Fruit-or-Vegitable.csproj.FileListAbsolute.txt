@@ -1,0 +1,9 @@
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\04.Fruit-or-Vegitable\bin\Debug\04.Fruit-or-Vegitable.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\04.Fruit-or-Vegitable\bin\Debug\04.Fruit-or-Vegitable.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\04.Fruit-or-Vegitable\bin\Debug\04.Fruit-or-Vegitable.pdb
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\04.Fruit-or-Vegitable\obj\Debug\04.Fruit-or-Vegitable.csprojResolveAssemblyReference.cache
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\04.Fruit-or-Vegitable\obj\Debug\04.Fruit-or-Vegitable.exe
+c:\users\18541\documents\visual studio 2015\Projects\Solution1\04.Fruit-or-Vegitable\obj\Debug\04.Fruit-or-Vegitable.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\04.Fruit-or-Vegitable\bin\Debug\04.Fruit-or-Vegitable.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\04.Fruit-or-Vegitable\obj\Debug\04.Fruit-or-Vegitable.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\04Week\04.Homework\04.Fruit-or-Vegitable\obj\Debug\04.Fruit-or-Vegitable.pdb

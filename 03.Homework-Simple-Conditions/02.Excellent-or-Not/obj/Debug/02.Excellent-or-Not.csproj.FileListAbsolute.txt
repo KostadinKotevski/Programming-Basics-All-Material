@@ -1,0 +1,8 @@
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\02.Excellent-or-Not\bin\Debug\02.Excellent-or-Not.exe.config
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\02.Excellent-or-Not\bin\Debug\02.Excellent-or-Not.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\02.Excellent-or-Not\bin\Debug\02.Excellent-or-Not.pdb
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\02.Excellent-or-Not\obj\Debug\02.Excellent-or-Not.exe
+c:\users\18541\documents\visual studio 2015\Projects\03.Homework-Simple-Conditions\02.Excellent-or-Not\obj\Debug\02.Excellent-or-Not.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\02.Excellent-or-Not\bin\Debug\02.Excellent-or-Not.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\02.Excellent-or-Not\obj\Debug\02.Excellent-or-Not.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\03Week\03.Homework-Simple-Conditions\02.Excellent-or-Not\obj\Debug\02.Excellent-or-Not.pdb
