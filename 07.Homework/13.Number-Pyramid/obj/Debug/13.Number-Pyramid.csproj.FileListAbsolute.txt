@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\13.Number-Pyramid\bin\Debug\13.Number-Pyramid.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\13.Number-Pyramid\bin\Debug\13.Number-Pyramid.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\13.Number-Pyramid\bin\Debug\13.Number-Pyramid.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\13.Number-Pyramid\obj\Debug\13.Number-Pyramid.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\13.Number-Pyramid\obj\Debug\13.Number-Pyramid.pdb

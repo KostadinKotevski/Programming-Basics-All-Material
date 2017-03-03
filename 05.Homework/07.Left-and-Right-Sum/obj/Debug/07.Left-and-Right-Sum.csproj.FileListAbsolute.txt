@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\07.Left-and-Right-Sum\bin\Debug\07.Left-and-Right-Sum.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\07.Left-and-Right-Sum\bin\Debug\07.Left-and-Right-Sum.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\07.Left-and-Right-Sum\bin\Debug\07.Left-and-Right-Sum.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\07.Left-and-Right-Sum\obj\Debug\07.Left-and-Right-Sum.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\07.Left-and-Right-Sum\obj\Debug\07.Left-and-Right-Sum.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\07.Left-and-Right-Sum\obj\Debug\07.Left-and-Right-Sum.pdb

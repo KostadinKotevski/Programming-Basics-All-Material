@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\10.Check-Prime\bin\Debug\10.Check-Prime.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\10.Check-Prime\bin\Debug\10.Check-Prime.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\10.Check-Prime\bin\Debug\10.Check-Prime.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\10.Check-Prime\obj\Debug\10.Check-Prime.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\10.Check-Prime\obj\Debug\10.Check-Prime.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\10.Check-Prime\obj\Debug\10.Check-Prime.pdb

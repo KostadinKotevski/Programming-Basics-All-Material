@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\15.Magic-Wand-PastPaper-Question\bin\Debug\15.Magic-Wand-PastPaper-Question.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\15.Magic-Wand-PastPaper-Question\bin\Debug\15.Magic-Wand-PastPaper-Question.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\15.Magic-Wand-PastPaper-Question\bin\Debug\15.Magic-Wand-PastPaper-Question.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\15.Magic-Wand-PastPaper-Question\obj\Debug\15.Magic-Wand-PastPaper-Question.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\15.Magic-Wand-PastPaper-Question\obj\Debug\15.Magic-Wand-PastPaper-Question.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\15.Magic-Wand-PastPaper-Question\obj\Debug\15.Magic-Wand-PastPaper-Question.pdb

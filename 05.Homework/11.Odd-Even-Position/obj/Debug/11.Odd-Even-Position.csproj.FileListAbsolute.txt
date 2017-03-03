@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\11.Odd-Even-Position\bin\Debug\11.Odd-Even-Position.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\11.Odd-Even-Position\bin\Debug\11.Odd-Even-Position.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\11.Odd-Even-Position\bin\Debug\11.Odd-Even-Position.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.pdb

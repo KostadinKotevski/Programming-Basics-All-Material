@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\06. Stop Number\bin\Debug\_06.Stop_Number.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\06. Stop Number\bin\Debug\_06.Stop_Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\06. Stop Number\bin\Debug\_06.Stop_Number.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\06. Stop Number\obj\Debug\06. Stop Number.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\06. Stop Number\obj\Debug\_06.Stop_Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\06. Stop Number\obj\Debug\_06.Stop_Number.pdb

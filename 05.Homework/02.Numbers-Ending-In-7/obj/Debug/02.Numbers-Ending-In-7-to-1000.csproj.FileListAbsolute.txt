@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\02.Numbers-Ending-In-7\bin\Debug\02.Numbers-Ending-In-7.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\02.Numbers-Ending-In-7\bin\Debug\02.Numbers-Ending-In-7.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\02.Numbers-Ending-In-7\bin\Debug\02.Numbers-Ending-In-7.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\02.Numbers-Ending-In-7\obj\Debug\02.Numbers-Ending-In-7.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\02.Numbers-Ending-In-7\obj\Debug\02.Numbers-Ending-In-7.pdb

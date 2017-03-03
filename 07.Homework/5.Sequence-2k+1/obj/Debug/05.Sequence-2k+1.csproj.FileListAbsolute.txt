@@ -1,0 +1,3 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\5.Sequence-2k+1\bin\Debug\5.Sequence-2k+1.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\5.Sequence-2k+1\obj\Debug\5.Sequence-2k+1.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\5.Sequence-2k+1\obj\Debug\5.Sequence-2k+1.pdb

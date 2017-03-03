@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\02.Firm\bin\Debug\02.Firm.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\02.Firm\bin\Debug\02.Firm.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\02.Firm\bin\Debug\02.Firm.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\02.Firm\obj\Debug\02.Firm.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\02.Firm\obj\Debug\02.Firm.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\02.Firm\obj\Debug\02.Firm.pdb

@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\04.Sum-Numbers\bin\Debug\04.Sum-Numbers.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\04.Sum-Numbers\bin\Debug\04.Sum-Numbers.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\04.Sum-Numbers\bin\Debug\04.Sum-Numbers.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\04.Sum-Numbers\obj\Debug\04.Sum-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\04.Sum-Numbers\obj\Debug\04.Sum-Numbers.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\04.Sum-Numbers\obj\Debug\04.Sum-Numbers.pdb

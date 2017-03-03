@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\06.Numbers\bin\Debug\06.Numbers.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\06.Numbers\bin\Debug\06.Numbers.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\06.Numbers\bin\Debug\06.Numbers.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\06.Numbers\obj\Debug\06.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\06.Numbers\obj\Debug\06.Numbers.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\06.Numbers\obj\Debug\06.Numbers.pdb

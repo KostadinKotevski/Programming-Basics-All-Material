@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\05.Diamond\bin\Debug\05.Diamond.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\05.Diamond\bin\Debug\05.Diamond.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\05.Diamond\bin\Debug\05.Diamond.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\05.Diamond\obj\Debug\05.Diamond.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\05.Diamond\obj\Debug\05.Diamond.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\05.Diamond\obj\Debug\05.Diamond.csprojResolveAssemblyReference.cache

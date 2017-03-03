@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\03. Match Tickets\obj\Debug\03. Match Tickets.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\03. Match Tickets\obj\Debug\_03.Match_Tickets.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 17 July 2016\03. Match Tickets\obj\Debug\_03.Match_Tickets.pdb

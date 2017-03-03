@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\05.Max-Number\bin\Debug\05.Max-Number.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\05.Max-Number\bin\Debug\05.Max-Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\05.Max-Number\bin\Debug\05.Max-Number.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\05.Max-Number\obj\Debug\05.Max-Number.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\05.Max-Number\obj\Debug\05.Max-Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\05.Max-Number\obj\Debug\05.Max-Number.pdb

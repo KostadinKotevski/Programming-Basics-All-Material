@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\8.Factorial\bin\Debug\8.Factorial.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\8.Factorial\bin\Debug\8.Factorial.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\8.Factorial\bin\Debug\8.Factorial.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\8.Factorial\obj\Debug\8.Factorial.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\8.Factorial\obj\Debug\8.Factorial.pdb

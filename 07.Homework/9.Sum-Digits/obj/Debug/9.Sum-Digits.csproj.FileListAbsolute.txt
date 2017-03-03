@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\9.Sum-Digits\bin\Debug\9.Sum-Digits.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\9.Sum-Digits\bin\Debug\9.Sum-Digits.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\9.Sum-Digits\bin\Debug\9.Sum-Digits.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\9.Sum-Digits\obj\Debug\9.Sum-Digits.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\9.Sum-Digits\obj\Debug\9.Sum-Digits.pdb

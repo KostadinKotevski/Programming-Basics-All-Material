@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\01.DailyProfit\bin\Debug\01.DailyProfit.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\01.DailyProfit\bin\Debug\01.DailyProfit.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\01.DailyProfit\bin\Debug\01.DailyProfit.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\01.DailyProfit\obj\Debug\01.DailyProfit.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\01.DailyProfit\obj\Debug\01.DailyProfit.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\PastExams\Exam - 28 August 2016\01.DailyProfit\obj\Debug\01.DailyProfit.pdb

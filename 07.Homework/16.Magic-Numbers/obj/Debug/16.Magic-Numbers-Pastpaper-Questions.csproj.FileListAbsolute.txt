@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\16.Magic-Numbers\bin\Debug\16.Magic-Numbers.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\16.Magic-Numbers\bin\Debug\16.Magic-Numbers.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\16.Magic-Numbers\bin\Debug\16.Magic-Numbers.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\16.Magic-Numbers\obj\Debug\16.Magic-Numbers-Pastpaper-Questions.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\16.Magic-Numbers\obj\Debug\16.Magic-Numbers.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\16.Magic-Numbers\obj\Debug\16.Magic-Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\Exam 20th of November\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\Exam 20th of November\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\Exam 20th of November\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\Exam 20th of November\06. Max Combination\obj\Debug\06. Max Combination.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\Exam 20th of November\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\Exam 20th of November\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

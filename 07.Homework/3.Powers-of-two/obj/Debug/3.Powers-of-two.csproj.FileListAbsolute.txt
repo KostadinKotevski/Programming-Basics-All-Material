@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\3.Powers-of-two\bin\Debug\3.Powers-of-two.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\3.Powers-of-two\bin\Debug\3.Powers-of-two.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\3.Powers-of-two\bin\Debug\3.Powers-of-two.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\3.Powers-of-two\obj\Debug\3.Powers-of-two.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\3.Powers-of-two\obj\Debug\3.Powers-of-two.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\3.Powers-of-two\obj\Debug\3.Powers-of-two.csprojResolveAssemblyReference.cache

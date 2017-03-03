@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\14. Number-Table\bin\Debug\_14.Number_Table.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\14. Number-Table\bin\Debug\_14.Number_Table.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\14. Number-Table\bin\Debug\_14.Number_Table.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\14. Number-Table\obj\Debug\_14.Number_Table.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\14. Number-Table\obj\Debug\_14.Number_Table.pdb

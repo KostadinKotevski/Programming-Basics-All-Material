@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\04.Point-In-Figure\bin\Debug\04.Point-In-Figure.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\04.Point-In-Figure\bin\Debug\04.Point-In-Figure.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\04.Point-In-Figure\bin\Debug\04.Point-In-Figure.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\04.Point-In-Figure\obj\Debug\04.Point-In-Figure.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\04.Point-In-Figure\obj\Debug\04.Point-In-Figure.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\04.Point-In-Figure\obj\Debug\04.Point-In-Figure.pdb

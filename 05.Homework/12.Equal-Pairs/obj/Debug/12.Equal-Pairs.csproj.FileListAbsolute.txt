@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\12.Equal-Pairs\bin\Debug\12.Equal-Pairs.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\12.Equal-Pairs\bin\Debug\12.Equal-Pairs.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\12.Equal-Pairs\bin\Debug\12.Equal-Pairs.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.pdb

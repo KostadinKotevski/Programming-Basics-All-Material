@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\14.Division-without-leftover-PastPaper\bin\Debug\14.Division-without-leftover-PastPaper.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\14.Division-without-leftover-PastPaper\bin\Debug\14.Division-without-leftover-PastPaper.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\14.Division-without-leftover-PastPaper\bin\Debug\14.Division-without-leftover-PastPaper.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\14.Division-without-leftover-PastPaper\obj\Debug\14.Division-without-leftover-PastPaper.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\14.Division-without-leftover-PastPaper\obj\Debug\14.Division-without-leftover-PastPaper.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\14.Division-without-leftover-PastPaper\obj\Debug\14.Division-without-leftover-PastPaper.pdb

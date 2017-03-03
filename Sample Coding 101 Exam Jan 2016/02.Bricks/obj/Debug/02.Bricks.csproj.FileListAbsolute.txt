@@ -1,0 +1,5 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\02.Bricks\bin\Debug\02.Bricks.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\02.Bricks\bin\Debug\02.Bricks.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\02.Bricks\bin\Debug\02.Bricks.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\02.Bricks\obj\Debug\02.Bricks.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\02.Bricks\obj\Debug\02.Bricks.pdb

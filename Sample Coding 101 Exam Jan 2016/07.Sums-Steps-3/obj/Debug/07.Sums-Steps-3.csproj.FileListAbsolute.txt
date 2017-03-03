@@ -1,0 +1,9 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\bin\Debug\07.Sums-Steps-3.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\bin\Debug\07.Sums-Steps-3.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\bin\Debug\07.Sums-Steps-3.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\obj\Debug\07.Sums-Steps-3.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\obj\Debug\07.Sums-Steps-3.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\obj\Debug\07.Sums-Steps-3.pdb
+C:\Users\30875\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\bin\Debug\07.Sums-Steps-3.exe.config
+C:\Users\30875\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\obj\Debug\07.Sums-Steps-3.exe
+C:\Users\30875\Desktop\Software University\Programming Basics August 2016\08Week\Sample Coding 101 Exam Jan 2016\07.Sums-Steps-3\obj\Debug\07.Sums-Steps-3.pdb

@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\17.Special-Numbers-PastPaper-Question\bin\Debug\17.Special-Numbers-PastPaper-Question.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\17.Special-Numbers-PastPaper-Question\bin\Debug\17.Special-Numbers-PastPaper-Question.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\17.Special-Numbers-PastPaper-Question\bin\Debug\17.Special-Numbers-PastPaper-Question.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\17.Special-Numbers-PastPaper-Question\obj\Debug\17.Special-Numbers-PastPaper-Question.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\17.Special-Numbers-PastPaper-Question\obj\Debug\17.Special-Numbers-PastPaper-Question.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\07Week\07.Homework\17.Special-Numbers-PastPaper-Question\obj\Debug\17.Special-Numbers-PastPaper-Question.csprojResolveAssemblyReference.cache

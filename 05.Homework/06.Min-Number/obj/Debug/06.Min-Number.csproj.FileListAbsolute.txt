@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\06.Min-Number\bin\Debug\06.Min-Number.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\06.Min-Number\bin\Debug\06.Min-Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\06.Min-Number\bin\Debug\06.Min-Number.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\06.Min-Number\obj\Debug\06.Min-Number.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\06.Min-Number\obj\Debug\06.Min-Number.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\06.Min-Number\obj\Debug\06.Min-Number.csprojResolveAssemblyReference.cache

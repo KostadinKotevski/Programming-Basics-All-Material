@@ -1,0 +1,6 @@
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\03.LatinLetters\bin\Debug\03.LatinLetters.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\03.LatinLetters\obj\Debug\03.LatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\03.LatinLetters\obj\Debug\03.LatinLetters.exe
+C:\Users\18541\Desktop\Software University\Programming Basics August 2016\05Week\05.Homework\03.LatinLetters\obj\Debug\03.LatinLetters.pdb
